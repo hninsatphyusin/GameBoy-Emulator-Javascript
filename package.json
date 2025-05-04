@@ -1,0 +1,26 @@
+{
+  "name": "gameboy-emulator-javascript",
+  "version": "1.0.0",
+  "description": "Gameboy Emulator for the Web, using Javascript (Node.js & Express.js) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hninsatphyusin/GameBoy-Emulator-Javascript.git"
+  },
+  "keywords": [
+    "Gameboy",
+    "Emulator"
+  ],
+  "author": "Hnin Sat Phyu Sin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hninsatphyusin/GameBoy-Emulator-Javascript/issues"
+  },
+  "homepage": "https://github.com/hninsatphyusin/GameBoy-Emulator-Javascript#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
